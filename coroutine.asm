@@ -113,4 +113,4 @@ contexts_rsp:     rq COROUTINES_CAPACITY
 contexts_rbp:     rq COROUTINES_CAPACITY
 contexts_rip:     rq COROUTINES_CAPACITY
 public contexts_count
-contexts_count:   rq 1
+contexts_count:   rq 0
